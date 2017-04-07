@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Feather Chat - Login</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.css" />
+</head>
+<body>
+
+  <main class="login container">
+    <div class="row">
+      <div class="col-12 col-6-tablet push-3-table text-center">
+        <h1 class="font-100">
+          Welcome Back
+        </h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-12 col-6-tablet push-3-tablet col-4-desktop push-4-desktop text-center">
+        <form action="/auth/local" method="post" class="form">
+          <fieldset><input type="email" name="email" placeholder="email" class="block"></fieldset>
+          <fieldset><input type="password" name="password" placeholder="password" class="block"></fieldset>
+          <button class="button button-primary block login">
+            Login
+          </button>
+        </form>
+      </div>
+    </div>
+
+  </main>
+
+</body>
+</html>

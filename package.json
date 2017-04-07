@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "body-parser": "^1.17.1",
+    "bootstrap": "^3.3.7",
     "compression": "^1.6.2",
     "cors": "^2.8.3",
     "feathers": "^2.1.1",
@@ -33,6 +34,7 @@
     "feathers-mongoose": "^3.6.2",
     "feathers-rest": "^1.7.1",
     "feathers-socketio": "^1.5.2",
+    "material-ui": "^0.17.1",
     "mongoose": "^4.9.3",
     "passport": "^0.3.2",
     "serve-favicon": "^2.4.2",

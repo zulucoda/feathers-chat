@@ -7,6 +7,7 @@
     "token": {
       "secret": "i+UjJJQhe1pr2Mi7s3p506mHXoXlvEzqqMrN1XfXXeTVDk4G+KdeobuF8PtTgYxHqDG8Dvcy8ay7x5L2PJNvPA=="
     },
-    "local": {}
+    "local": {},
+    "successRedirect": "/chat.html"
   }
 }
